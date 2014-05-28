@@ -1,7 +1,14 @@
-Waitlist Specification Notes
+Original Data Sources
+=====================
 
-1.	Original Data Sources
-1.1.	Applicant Database
+Applicant Database
+------------------
+
+Google Workbook
+---------------
+
+
+
 1.1.1.	Data Model
 1.1.2.	Entities (Fields)
 1.1.2.1.	Applicants (Applicant ID, First Name, Last Name, Application Date, Uploaded Application, Documentation, Family Size)
@@ -24,7 +31,7 @@ Waitlist Specification Notes
 1.1.3.5.	Check-in’s originally served two purposes. Record notes while application is processing and document regular “check-in calls” between case manager and applicant (as required by program). In reality, check-in’s were used to document most case notes throughout the application process. 
 1.1.3.6.	Interviews
 1.1.3.6.1.	220 of 8,957 check-in notes contained the word “interview”, with the most recent written the day of data extraction for analysis. In contrast, the last official interview record was created July 26, 2012, approximately 410 workdays before data extraction. More investigation into the content surrounding use of the word “interview” may clarify this inconsistency.
-1.2.	Google Workbook
+1.2.	
 1.2.1.	Data Model
 1.2.1.1.	The following was included in every worksheet:
 1.2.1.1.1.	First Name – First name(s) of adults in applying household.
