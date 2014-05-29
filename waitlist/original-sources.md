@@ -50,3 +50,10 @@ The following elements included in every worksheet
 	Phone: Phone number belonging to adult(s) in applying household.
 	Email: Email address belonging to adult(s) in applying household.
 	Check In – Date indicating most recent check in and attached comments documenting previous check-ins.
+Worksheet Specific Fields
+*Waitlist
+	Pregnancy – Indicating pregnancy and due date of applying household member.
+*Moved In
+	Moved In- Date applying household moved into property.
+*Denied during leasing
+	Reason for denial – Indicating specifics for denied eligibility.
