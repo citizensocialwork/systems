@@ -4,9 +4,6 @@ Original Data Sources
 
 1. Applicant Database
 
-
-![partial data model](https://certsys.blob.core.windows.net/screenshots/waitlist old version data model.png "partial data model")
-
 Entities (Fields)
 	
 	
@@ -30,7 +27,6 @@ Entities (Fields)
 
 2. Google Workbook
 ------------------
-![Google Workbook Spreadsheets](https://certsys.blob.core.windows.net/screenshots/google workbook.png "Google workbook")
 
 The following elements included in every worksheet
     
