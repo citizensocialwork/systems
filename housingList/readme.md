@@ -15,7 +15,7 @@
     - Program Availability
     - Program Contact Information
     - Manage Housing Program Delivery
-    -- Current Delivery Locations
+    -  Current Delivery Locations
     -- Historical Delivery Information
     -- Point of Entry
     -- Delivery Length
