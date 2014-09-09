@@ -3,20 +3,20 @@
 ### Feature List:
 
 
-  * Manage Housing Providers
+  * Track Housing Providers
     - Provider Properties
   
-  * Manage Housing Properties
+  * Track Housing Properties
     - Property Locations
     - Property Units and Address
     - Property Contact Information
 
-  * Manage Housing Programs
+  * Track Housing Programs
     - Program Availability
     - Program Contact Information
     - Housing Program Delivery
 
-  * Manage Housing Program Delivery 
+  * Track Housing Program Delivery 
     - Current Delivery Locations
     - Historical Delivery Information
     - Point of Entry
